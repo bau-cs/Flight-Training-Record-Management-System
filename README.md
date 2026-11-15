@@ -79,7 +79,3 @@ Asagidaki goruntu, ornek komut satiri oturumundan alinmistir:
 ## 7. Veri ve gizlilik
 
 Uygulama ad, telefon, ogrenci numarasi veya baska bir kisisel veri istemez. Kullanici sadece egitim kaydina ait tarih, tur, saat ve konu alanlarini girer. CSV sutunlari `date`, `duration`, `hours` ve `topic` seklindedir. CSV dosyasi yerel proje klasorunde tutulur.
-
-## 8. Yazar notu
-
-Teslimden once `[Ad Soyad]` ve `[Ogrenci No]` alanlarini doldurun, uygulamayi kendi bilgisayarinizda calistirin, testleri tekrar edin ve kodun her fonksiyonunu aciklayabildiginizden emin olun.
