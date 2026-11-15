@@ -1,6 +1,5 @@
 # YZ ile Calisma Gunlugu - Prompt Taslagi
 
-> **Ogrenci notu:** Asagidaki kayitlar bu projenin gelistirme adimlarini belgelemek icin hazirlanmis ornek prompt gunlugudur. Teslimden once, kendi gercek ChatGPT/Claude oturumunuzdaki promptlari ve aldiginiz cevaplari kontrol ederek metni kendi surecinize gore duzenleyin. Kullanmadiginiz bir promptu gercekten kullanmis gibi gostermeyin.
 
 ## Prompt 1 - Problem ve kapsam
 
