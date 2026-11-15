@@ -1,1 +1,0 @@
-# Harici Python paketi gerekmiyor. Standart kutuphane kullanilir.
