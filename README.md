@@ -1,8 +1,8 @@
 # Ucus Egitim Kayit ve Saat Takip Sistemi
 
 **Ders:** GEP1316 Kodlama Okuryazarligi  
-**Odev:** Ara Degerlendirme Odev 1 (Vize Yerine)  
-**Ogrenci:** [Ad Soyad] - [Ogrenci No]
+**Odev:** Ara Degerlendirme Odev 1 
+**Ogrenci:** Huseyin Can Sevinc
 
 ## 1. Proje ne yapar?
 
