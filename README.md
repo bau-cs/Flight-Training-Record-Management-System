@@ -1,10 +1,10 @@
-# Ucus Egitim Kayit ve Saat Takip Sistemi
+# Uçuş Eğitim Kayıt ve Saat Takip Sistemi
 
-**Ders:** GEP1316 Kodlama Okuryazarligi
+**Ders:** GEP1316 Kodlama Okuryazarlığı
 
-**Odev:** Ara Degerlendirme Odev 1
+**Ödev:** Ara Değerlendirme Ödevi 1
 
-**Ogrenci:** Huseyin Can Sevinc
+**Öğrenci:** Hüseyin Can Sevinç
 
 ## 1. Proje ne yapar?
 
